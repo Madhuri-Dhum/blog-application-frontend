@@ -1,2 +1,8 @@
 # blog-application-frontend
-Blog Application
+blog-application-frontend
+
+# install dependencies
+npm install 
+
+# To start the project, run the following command:
+npm start
